@@ -6,5 +6,5 @@ serenity_component(
 
 set(SOURCES main.cpp day5.cpp)
 
-serenity_app(AdventOfCode2022 ICON app-snake)
+serenity_app(AdventOfCode2022 ICON app-advent-of-code-2022)
 target_link_libraries(AdventOfCode2022 PRIVATE LibCore LibGfx LibGUI LibConfig LibMain LibDesktop)
