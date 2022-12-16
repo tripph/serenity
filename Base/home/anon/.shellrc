@@ -5,3 +5,5 @@
 IFS="\x0a"
 
 export HISTCONTROL="ignoreboth"
+
+AdventOfCode2022
